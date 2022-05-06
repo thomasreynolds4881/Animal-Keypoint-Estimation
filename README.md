@@ -1,5 +1,6 @@
 ## Animal Pose Estimation Using RCNN With Keypoints
-##### This is a final project for my Computer Vision class.
+
+This is the final project for my Computer Vision class.
 
 ### Overview
 
