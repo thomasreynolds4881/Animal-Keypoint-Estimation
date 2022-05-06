@@ -1,7 +1,5 @@
 ## Animal Pose Estimation Using RCNN With Keypoints
 
-This is the final project for my Computer Vision class.
-
 ### Overview
 
 The goal of this project was to predict the keypoints of various animals across different poses and domains. Each animal has an annotated bounding box and list of keypoints, and each image can include multiple animals. Keypoints can be missing if they are out of frame. I used a variation of RCNN to do this. RCNN is a well-known object detection algorithm within the computer vision domain. For this project, I used PyTorch's implementation of keypoint RCNN detection, which makes use of a framework called Mask R-CNN (https://arxiv.org/abs/1703.06870). This model is found within PyTorch as KEYPOINTRCNN_RESNET50_FPN.
