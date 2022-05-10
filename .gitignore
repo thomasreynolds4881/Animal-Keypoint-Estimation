@@ -3,6 +3,8 @@ data
 .ipynb_checkpoints
 separate_annotations.py
 keypointsrcnn_weights.pth
+get_cows.py
+data_cows
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
