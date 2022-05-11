@@ -22,6 +22,10 @@ I heavily modified the data credited below so that it would align with the speci
 
 Link to data: https://drive.google.com/file/d/1WbVepGP3T5xTWRQiI35a4A4kS_7uauBS/view?usp=sharing
 
+### Presentation
+
+https://docs.google.com/presentation/d/1PkJLeuTx5w1xWmZwRXExUA9MXxP9SfSZpzkysSeYVo4/edit?usp=sharing
+
 ### Credit
 
 - Keypoint RCNN tutorial: https://medium.com/@alexppppp/how-to-train-a-custom-keypoint-detection-model-with-pytorch-d9af90e111da
